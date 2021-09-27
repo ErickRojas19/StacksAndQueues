@@ -1,0 +1,6 @@
+queue\ArrayQueueTest.class
+stacks\ArrayStackTest.class
+stacks\LinkedStackTest.class
+queue\BaseQueueTest.class
+queue\LinkedQueueTest.class
+stacks\BaseStackTest.class
